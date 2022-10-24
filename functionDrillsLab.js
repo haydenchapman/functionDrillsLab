@@ -282,7 +282,7 @@ function theEliminator(contestants, loser){
       }
       return contestants
   }
-
+}
 
 ////////////////// PROBLEM 17 ////////////////////
 let sampleString = "Hi, my name is Kylo."
@@ -366,7 +366,7 @@ function isAscending(myArr){
     }
     return true;
 }
-}
+
 let arrayIsAscending = isAscending(sampleArray)
 ////////////////// PROBLEM 22 ////////////////////
 
